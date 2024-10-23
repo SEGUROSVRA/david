@@ -5,11 +5,9 @@ body {
     min-height: 100vh;
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
-    background: linear-gradient(45deg, blue, rgb(16, 124, 187), rgb(88, 88, 253));
     background-image: url(/Agregar\ texto\ \(5\).jpg);
     background-size: cover;
     }
-
 
 .card {
     background-color:  rgb(255, 255, 255);
